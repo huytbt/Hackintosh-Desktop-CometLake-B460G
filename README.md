@@ -6,4 +6,4 @@
 - Mainboard: Asus Rog Strix B460-G Gaming
 
 ## OS Version Tested
-- macOS Catalina 10.15.6 (19G73)
+- macOS Catalina 10.15.6 (19G73, 19G2021)
